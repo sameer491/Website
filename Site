@@ -194,7 +194,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
-      <a class="navbar-left" href="#myPage"><img src="C:\Users\Sameer\Desktop\Website\Images\logo2.png" alt="In the name of Allah, the Beneficent, the Merciful" width=237 height=49></a>
+      <a class="navbar-left" href="#myPage"><img src="Images/logo2.png" alt="In the name of Allah, the Beneficent, the Merciful" width=237 height=49></a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
@@ -229,7 +229,7 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="C:\Users\Sameer\Desktop\Website\Images\placeholder1.jpg" alt="p1" width="1200" height="700">
+        <img src="Images/placeholder1.jpg" alt="p1" width="1200" height="700">
         <div class="carousel-caption">
           <h3 class = "stroke">P L A C E H O L D E R</h3>
           <p class = "stroke">This is a place holder.</p>
@@ -237,7 +237,7 @@
       </div>
 
       <div class="item">
-        <img src="C:\Users\Sameer\Desktop\Website\Images\placeholder2.jpg" alt="Chicago" width="1200" height="700">
+        <img src="Images/placeholder2.jpg" alt="p2" width="1200" height="700">
         <div class="carousel-caption">
           <h3 class = "stroke">P L A C E H O L D E R</h3>
           <p class = "stroke">This is a place holder.</p>
@@ -245,7 +245,7 @@
       </div>
     
       <div class="item">
-        <img src="C:\Users\Sameer\Desktop\Website\Images\placeholder3.jpg" alt="Los Angeles" width="1200" height="700">
+        <img src="Images/placeholder3.jpg" alt="p3" width="1200" height="700">
         <div class="carousel-caption">
           <h3 class = "stroke">P L A C E H O L D E R</h3>
           <p class = "stroke">This is a place holder</p>
